@@ -1,3 +1,4 @@
+<img width="1920" height="1112" alt="Screenshot_20260823_000431" src="https://github.com/user-attachments/assets/5975eae1-028d-4b91-855c-8c2e04c7ad2b" />
 <img width="1920" height="1112" alt="Screenshot_20260823_000040" src="https://github.com/user-attachments/assets/f2a4774a-2f29-45c8-b664-74d4d58fe828" /># 🛒 Reliance Digital Web Scraper
 
 A small Python web scraper I built while learning **web scraping**.
